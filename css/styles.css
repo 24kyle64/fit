@@ -266,3 +266,8 @@ a:hover, a:focus {
 color: rgba(35, 82, 124, 0);
 text-decoration: underline;
 }
+
+.container {
+width: 1170px;
+height: 100%;
+}
